@@ -7,10 +7,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "three": "^0.160.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "three": "^0.158.0",
     "@react-three/fiber": "^8.13.6",
-    "@react-three/drei": "^9.78.5"
+    "@react-three/drei": "^9.79.1"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
   }
 }
